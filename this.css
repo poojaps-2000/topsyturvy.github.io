@@ -39,9 +39,7 @@ nav .navbar-nav li a,.navbar-brand{
     color: white !important;
     font-weight: bold;
     }
-#info{
-    text-align: left;
-}
+
 #b1 {
     color: white;
     border-color: white;
@@ -51,6 +49,7 @@ nav .navbar-nav li a,.navbar-brand{
     }
 h1{
     font-size:2.5em ;
+    font-family: 'Montserrat', sans-serif; 
     
 }
 p,#desc{  
