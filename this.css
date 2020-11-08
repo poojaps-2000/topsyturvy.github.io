@@ -31,8 +31,9 @@ body{
     font-weight: bold;
     font-size:1em;
 }
-nav .navbar-nav li a{
+nav .navbar-nav li a,.navbar-brand{
     color: white !important;
+    font-weight: bold;
     }
 #info{
     text-align: left;
