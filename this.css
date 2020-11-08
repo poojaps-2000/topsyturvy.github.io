@@ -1,0 +1,76 @@
+.navbar{
+    color: white;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#masseffect{
+    height: 600px;
+    width: 100%;
+}
+#txt{
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    text-align: center;
+    
+  }
+.bottom-left {
+    position: absolute;
+    bottom: 20%;
+    text-align: left;
+    left:8% ;
+    font-size: 40px;
+    font-family: 'Viga', sans-serif;
+  }
+#b-left{
+    position: absolute;
+    bottom: 0.4em;
+    text-align: left;
+    left:8% ;
+    font-weight: bold;
+    font-size:1em;
+}
+nav .navbar-nav li a{
+    color: white !important;
+    }
+#info{
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Viga', sans-serif;
+}
+#b1 {
+    color: white;
+    border-color: white;
+    width:300px;
+    border-radius:40px;
+    border-width: 3px;
+    }
+h1{
+    font-size:2.5em ;
+    
+}
+p{  
+    font-weight: lighter;
+    font-size: 0.8em;
+}
+h4{
+    font-weight:bold;
+
+#ourcus{
+    padding-left: 30%;
+}
+
+.form-control{
+    color: black;
+    border: none;
+    background-color: black;
+}
+
+.btn-secondary{
+    border-color:gray;
+}
+
+#bb{
+   border:none;
+}
