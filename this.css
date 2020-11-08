@@ -21,9 +21,11 @@ body{
     text-align: left;
     left:8% ;
     font-size: 40px;
-    font-family: 'Montserrat', sans-serif;
-     font-weight: bold;
     
+  }
+  #site{
+    font-family: 'Montserrat', sans-serif; font-weight: bold;
+
   }
 #b-left{
     position: absolute;
@@ -39,7 +41,6 @@ nav .navbar-nav li a,.navbar-brand{
     }
 #info{
     text-align: left;
-    font-size: 15px;
 }
 #b1 {
     color: white;
